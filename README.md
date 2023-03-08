@@ -1,5 +1,7 @@
 # Leveraging-Adversarial-Samples-for-Enhanced-Classification-of-Malicious-and-Evasive-PDF-Files
 
+Full Paper available at: https://www.mdpi.com/2076-3417/13/6/3472/htm
+
 ### Abstract:
 The Portable Document Format (PDF) is considered one of the most popular formats due to its flexibility and portability across platforms. Although people have used machine learning techniques to detect malware in PDF files, the problem with these models is their weak resistance against evasion attacks, which constitutes a major security threat. The goal of this study is to introduce three machine learning-based systems that enhance malware detection in the presence of evasion attacks by substantially relying on evasive data to train malware and evasion detection models. To evaluate the robustness of the proposed systems, we used two testing datasets, a real dataset containing around 100 k PDF samples and an evasive dataset containing 500 k samples that we generated. We compared the results of the proposed systems to a baseline model that was not adversarially trained. When tested against the evasive dataset, the proposed systems provided an increase of around 80% in the f1-score compared to the baseline. This proves the value of the proposed approaches towards the ability to deal with evasive attacks
 
@@ -43,4 +45,4 @@ These results highlight the importance of the suggested approaches and their abi
 
 Any work that uses the data or code provided should cite the following paper:
 
-
+***Trad, F.; Hussein, A.; Chehab, A. Leveraging Adversarial Samples for Enhanced Classification of Malicious and Evasive PDF Files. Appl. Sci. 2023, 13, 3472. https://doi.org/10.3390/app13063472***
