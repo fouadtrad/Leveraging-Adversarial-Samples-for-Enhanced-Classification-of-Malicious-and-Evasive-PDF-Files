@@ -45,4 +45,4 @@ These results highlight the importance of the suggested approaches and their abi
 
 Any work that uses the data or code provided should cite the following paper:
 
-***Trad, F.; Hussein, A.; Chehab, A. Leveraging Adversarial Samples for Enhanced Classification of Malicious and Evasive PDF Files. Appl. Sci. 2023, 13, 3472. https://doi.org/10.3390/app13063472***
+***F. Trad, A. Hussein, and A. Chehab, “Leveraging Adversarial Samples for Enhanced Classification of Malicious and Evasive PDF Files,” Applied Sciences, vol. 13, no. 6, p. 3472, Mar. 2023, doi: 10.3390/app13063472.2***
